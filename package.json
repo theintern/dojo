@@ -1,0 +1,23 @@
+{
+  "name": "@theintern/dojo",
+  "version": "2.0.0-alpha.1",
+  "dependencies": {},
+  "description": "Experimental version of Dojo 1 used with Intern 2",
+  "devDependencies": {
+    "intern": "2.0.3"
+  },
+  "directories": {
+    "lib": "."
+  },
+  "dojoBuild": "dojo.profile.js",
+  "homepage": "https://github.com/theintern/dojo2-core/",
+  "keywords": [
+    "JavaScript",
+    "Dojo",
+    "Toolkit",
+    "Intern"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "main",
+  "optionalDependencies": {}
+}
